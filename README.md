@@ -1,0 +1,2 @@
+# rico
+turma A
